@@ -4,5 +4,16 @@
   "artist": " Kiyohiko Azuma",
   "author": " Kiyohiko Azuma",
   "cover": "https://upload.wikimedia.org/wikipedia/en/0/01/Yotsuba%26-vol1cover-jp.png",
-  "chapters": {}
+  "chapters": {
+    "1": {
+      "title": "1",
+      "volume": "1",
+      "last_updated": "1678207686",
+      "groups": {
+        "": [
+          ""
+        ]
+      }
+    }
+  }
 }
